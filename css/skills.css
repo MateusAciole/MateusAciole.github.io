@@ -1,0 +1,41 @@
+.skills-container {
+    max-width: 1200px;
+    padding: 120px 20px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 100px;
+}
+
+.skills-sub {
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.imagem img {
+    max-width: 80px;
+}
+
+
+.imagem {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 300px;
+}
+
+/*
+.tentaculo img {
+    width: 500px;
+    height: 500px;
+    transform: rotate(-60.697deg);
+    }
+
+   .tentaculo {
+    display: flex;
+    justify-content: left;
+    margin-left: -170px;
+    position: absolute;
+}
