@@ -50,11 +50,11 @@
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 600px) {
     .introducao {
         grid-template-columns: 1fr;
     }
-  .introducao img {
+  .introducao .gengar img {
     display: none;
   }
 }
